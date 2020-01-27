@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">advanced-recyclerviewer-kotlin</string>
+    <string name="action_settings">Settings</string>
+</resources>
